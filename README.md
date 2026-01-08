@@ -9,6 +9,7 @@ This repository contains my solutions and progress as I learn Java fundamentals 
 ## Completed `Exercism` Exercises
 
 - Hello World
+- Leap
 
 --- 
 Exercise files and test suites are from Exercism.org under MIT License.
