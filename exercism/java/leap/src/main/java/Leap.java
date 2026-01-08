@@ -1,7 +1,12 @@
-class Leap {
-
-    boolean isLeapYear(int year) {
-        throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
-    }
-
+public class Leap {
+    
+	boolean isLeapYear(int year) {
+		return (year % 4 == 0) && ((year % 100 != 0) || (year % 400 == 0));
+	}
 }
+
+// public class Main {
+// 	public static void main(String[] args) {
+// 		
+// 	}
+// }
